@@ -1,3 +1,3 @@
 # Algorithms-for-massive-data
-There is a final project for the course "Algorithms for massive data" at La Statale
 
+This is my final project on the course "Algorithms for massive data" at La Statale. The task is to implement MBA (Market Basket Analysis from scratch) on LinkedIn data (Kaggle dataset). For this purpose I have used A-priori algorithms on Data Science related jobs.
