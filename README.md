@@ -5,6 +5,6 @@ For this purpose, I have used A-priori algorithms on Data Science related jobs.
 
 The code is [here](https://github.com/dariashcherbakovaaa/Algorithms-for-massive-data/blob/main/MBA_Shcherbakova.ipynb).
 
-The report is [here]()
+The report is [here](https://github.com/dariashcherbakovaaa/Algorithms-for-massive-data/blob/main/Report-on-the-Algorithm.pdf).
 
 ![LOL](https://github.com/dariashcherbakovaaa/Algorithms-for-massive-data/blob/meme/meme.jpeg)
